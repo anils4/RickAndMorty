@@ -15,5 +15,4 @@ final class RMLocationViewController: UIViewController {
         title = "Locations"
         // Do any additional setup after loading the view.
     }
-
 }
