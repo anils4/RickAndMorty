@@ -9,7 +9,7 @@ import Foundation
 
 
 /// represents unique API endpoint
-@frozen enum RMEndpoint: String {
+ enum RMEndpoint: String {
     /// End point to egt character info
     case character
     /// endpoint to get episode info
