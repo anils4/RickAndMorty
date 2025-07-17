@@ -10,7 +10,7 @@ import UIKit
 /// controller to show and search for characters
 final class RMCharacterViewController: UIViewController {
 
-    private let characterListView = CharacterListView()
+    private let characterListView = RMCharacterListView()
     override func viewDidLoad() {
         super.viewDidLoad()
         view.backgroundColor = .systemBackground
